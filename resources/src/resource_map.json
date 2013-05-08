@@ -1,0 +1,17 @@
+{
+ "friendlyVersion": "0.1",
+ "versionDefName": "RESOURCES",
+
+ "media": [
+ 	 {"type":"font",
+      "defName":"FONT_SIMPLE_42",
+      "file":"fonts/simple/SimpleCLM-Bold_42.ttf"},
+     {"type":"font",
+      "defName":"FONT_SIMPLE_36",
+      "file":"fonts/simple/SimpleCLM-Bold_36.ttf"},
+     {"type":"font",
+      "defName":"FONT_SIMPLE_28",
+      "file":"fonts/simple/SimpleCLM-Bold_28.ttf"}
+	  ]
+
+}
